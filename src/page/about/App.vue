@@ -55,12 +55,14 @@ export default {
   width: 320px;
   padding: 0 0 20px;
   margin: 0 auto;
-  border: solid 1px #1e9fff;
+  border: solid 1px #999;
+  border-radius: 8px;
 }
 
 .bg {
   height: 120px;
   width: 100%;
+  border-radius: 6px 6px 0 0;
   background: #1e9fff;
 }
 .cover {
