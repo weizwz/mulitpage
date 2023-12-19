@@ -70,7 +70,7 @@ npm run serve
 ![image](https://img2022.cnblogs.com/blog/1086129/202211/1086129-20221119132115815-715130033.gif)
 
 ### 5. 其他
-**具体可参考我的项目 [mulitpage](https://github.com/weizwz/mulitpage)。**
+**具体可参考我的博客 https://weizwz.com/posts/453785dc.html **
 
 
 
